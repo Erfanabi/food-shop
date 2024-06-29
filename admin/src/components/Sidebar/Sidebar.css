@@ -1,0 +1,39 @@
+.sidebar {
+  padding: 20px;
+}
+
+.sidebar-options {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 15px;
+}
+
+.sidebar-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border: 1px solid #a9a9a9;
+  border-radius: 5px;
+  padding: 8px 13px;
+  cursor: pointer;
+}
+
+.sidebar-link.active {
+  background-color: #fff0e9;
+  border-color: tomato;
+}
+
+@media (max-width: 750px) {
+  .sidebar {
+    padding: 15px;
+  }
+
+  .sidebar img {
+    width: 22px !important;
+  }
+
+  .sidebar-link p {
+    display: none;
+  }
+}
