@@ -10,7 +10,7 @@
 
 سپس از منوی بالا و ایکون سبد سفارش لیست غذا ها به همراه قیمت و تعداد رو مشاهده کنید و سفارش خودتون رو تکمیل کنید
 
-# Demo Project
+#### Demo Project
 
 - ✅ [Front](https://tomato.liara.run/)
 
@@ -22,24 +22,24 @@
 
 ### Technology Used
 
-# front
+#### front
 
-1 - axios
-2 - react-router-dom
-3 - react-hot-toast
+1. axios
+2. react-router-dom
+3. react-hot-toast
 
-# backend
+#### backend
 
-4 - bcrypt
-5 - body-parser
-6 - cors
-7 - dotenv
-8 - express
-9 - jsonwebtoken
-10 - multer
-11 - nodemon
-12 - stripe
-13 - validator
+4. bcrypt
+5. body-parser
+6. cors
+7. dotenv
+8. express
+9. jsonwebtoken
+10. multer
+11. nodemon
+12. stripe
+13. validator
 
 ### Built With
 
